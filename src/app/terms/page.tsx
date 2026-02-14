@@ -330,10 +330,10 @@ export default function Terms() {
               <br />
               Email:{" "}
               <a
-                href="mailto:hello@puffcut.com"
+                href="mailto:puffcutapp@gmail.com"
                 className="underline underline-offset-2 hover:text-black"
               >
-                hello@puffcut.com
+                puffcutapp@gmail.com
               </a>
             </p>
           </section>
