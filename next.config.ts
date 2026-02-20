@@ -1,7 +1,15 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  async redirects() {
+    return [
+      {
+        source: "/getapp",
+        destination: "https://apps.apple.com/us/app/6758810097",
+        permanent: false,
+      },
+    ];
+  },
 };
 
 export default nextConfig;
