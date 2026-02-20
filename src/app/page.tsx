@@ -8,7 +8,7 @@ export default function Home() {
       <nav className="flex items-center justify-between px-6 py-5 md:px-16">
         <Image src="/logo.png" alt="PuffCut" width={130} height={36} priority />
         <a
-          href="https://apps.apple.com"
+          href="https://apps.apple.com/us/app/6758810097"
           target="_blank"
           rel="noopener noreferrer"
           className="rounded-full bg-black px-5 py-2.5 text-sm font-medium text-white transition-opacity hover:opacity-80"
@@ -37,7 +37,7 @@ export default function Home() {
 
           <div className="animate-fade-up-delay-3 mt-10">
             <a
-              href="https://apps.apple.com"
+              href="https://apps.apple.com/us/app/6758810097"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 rounded-full bg-black px-8 py-4 text-white transition-all hover:scale-105 hover:shadow-lg"
